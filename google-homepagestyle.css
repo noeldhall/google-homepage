@@ -1,0 +1,10 @@
+#header { 
+float:right;
+}
+.navbar {
+	display:inline-block; 
+}
+div {
+	margin:auto;
+}
+a:link {color:#808080;}
