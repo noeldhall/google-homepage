@@ -2,9 +2,14 @@
 float:right;
 }
 .navbar {
-	display:inline-block; 
+	display:inline-block; Margin: 0px 0px 0px 0px;
 }
-div {
-	margin:auto;
+.div1 {
+	width:700px;margin-left:auto;margin-right: auto;
 }
-a:link {color:#808080;}
+a:link {color:#808080;
+}
+.footer {
+	float:clear; background-color: #e1e1e1; margin: 200px 0px 0px 0px ;
+}
+.footer-right {float: right;margin-right: 5px;}
